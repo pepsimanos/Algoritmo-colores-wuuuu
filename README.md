@@ -1,2 +1,2 @@
-# Algoritmo-colores-wuuuu
-Bloques que si chocan se ponen de color blanco :D
+# p5.play-boilerplate
+Boiler plate for p5.play
